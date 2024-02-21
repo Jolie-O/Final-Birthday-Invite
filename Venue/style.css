@@ -1,0 +1,22 @@
+h1{
+    font-size:60px;
+}
+
+img{
+    height:900px;
+    width: 900px;;
+}
+* {
+    text-align:center;
+    background-color: #BEADFA;
+    font-family: cursive;
+}
+.button {
+    background-color: #FFF8C9;
+    color: rgb(0, 0, 0);
+    padding: 15px 60px;
+    border: #BEADFA;
+    display: inline-block;
+ }
+ 
+

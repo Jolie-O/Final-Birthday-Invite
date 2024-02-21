@@ -1,0 +1,46 @@
+h1{
+    font-size:60px;
+}
+
+h2{
+    font-size: 40px;
+    background-color: #D0BFFF;
+}
+
+h3{
+    font-size:30px;
+    background-color: #D0BFFF;
+}
+
+
+p{
+    font-family:cursive;
+    font-size: 40px;
+}
+
+.note7
+     {
+        color:blueviolet
+     }
+
+     .button {
+         background-color: #FFF8C9;
+         color: rgb(0, 0, 0);
+         padding: 15px 60px;
+         border: #BEADFA;
+         display: inline-block;
+      }
+      img{
+        height:1000px;
+        width: 1490px;
+    }
+
+    .img2{
+        height: 500px;
+        width: 600px;
+    }
+* {
+    text-align:center;
+    background-color: #BEADFA;
+    font-family: cursive;
+}
